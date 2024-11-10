@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "451970488829",
+    "project_id": "daily-dash-9051b",
+    "storage_bucket": "daily-dash-9051b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:451970488829:android:47fc67e967c78f5e5ae194",
+        "android_client_info": {
+          "package_name": "com.dailydash.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBkrh2SUV1vjco90OPlrkEk-YdxzEZ5c1o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:451970488829:android:6e90bf7102266ba25ae194",
+        "android_client_info": {
+          "package_name": "com.project.daily_dash"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBkrh2SUV1vjco90OPlrkEk-YdxzEZ5c1o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
